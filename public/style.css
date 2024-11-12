@@ -1,0 +1,31 @@
+.bgColorSetting{
+    background-color: black;
+}
+
+.DataDiv{
+    padding: 0 auto;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.iconDiv{
+    text-align: right;
+}
+
+.headingSize{
+    font-size: 45px;
+}
+
+.buttonSetting{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    width: 200px;
+    height: 45px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
