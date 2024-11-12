@@ -1,10 +1,10 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyAXK5yR83b_zfcs_8pR7kOgLRWcWAHluSo",
-    authDomain: "quiz-app-e1dc8.firebaseapp.com",
-    projectId: "quiz-app-e1dc8",
-    storageBucket: "quiz-app-e1dc8.firebasestorage.app",
-    messagingSenderId: "289654980047",
-    appId: "1:289654980047:web:f6e9b416d2699482f7e6ba"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 var app = firebase.initializeApp(firebaseConfig);
